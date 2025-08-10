@@ -1,1 +1,2 @@
 # Ads-CTR-Forecasting
+Ads CTR Analysis stands for Click-Through Rate Analysis for advertisements. Ads CTR Analysis is the process of examining the effectiveness of online advertisements by measuring the rate at which users click on an ad’s link to reach the advertiser’s website. If you want to learn how to perform Ads CTR Analysis, this article is for you. In this article, I’ll take you through the task of Ads CTR Analysis and Forecasting using Python.
